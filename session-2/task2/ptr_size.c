@@ -9,8 +9,10 @@
 int main( void ) {
 
     int *testIntPtr;
+    double *testIntPtr2;
 
     printf("Int pointer size is %ld bytes\n",sizeof(testIntPtr));
+    printf("Double pointer size is %ld bytes\n",sizeof(testIntPtr2));
 
     return 0;
 }

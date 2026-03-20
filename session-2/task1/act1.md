@@ -1,5 +1,5 @@
 # Variables and memory
-
+ 
 1. **Int and float types**
 
 The program `sizes.c` uses the `sizeof` operator to query primitive data types.
@@ -26,6 +26,7 @@ We can use the format statement to explore the representation.
 - We can also print an integer as a character using `%c` provided it is from the ASCII range (0-127).
 
 Compile the code and examine the output. 
+
 
 Adjust the variable values to test the code.
 - you can [look up ASCII codes](https://www.ascii-code.com/) to verify the output.

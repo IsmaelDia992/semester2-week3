@@ -3,7 +3,7 @@
 1. **Pointer type**
 
 The program `ptr_size.c` uses the `sizeof` operator to query the pointer data type.
-
+ 
 Compile and run the program.  
 
 Does the output match what you expect based on the machine architecture?
